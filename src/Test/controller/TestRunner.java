@@ -1,5 +1,7 @@
 package Test.controller;
 
+import Test.controller.TestController;
+
 public class TestRunner
 {
 	public static void main(String [] args)
